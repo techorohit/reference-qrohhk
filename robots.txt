@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techorohit.github.io/reference-qrohhk/sitemap.xml
